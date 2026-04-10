@@ -1,47 +1,84 @@
 # Hi 👋, I'm Rahul Bisoyi
 
-### 🚀 Passionate Developer | Java | Web | Problem Solver
+### 🚀 B.Tech CSE Student | Full Stack Developer | Problem Solver
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Student passionate about software development
-* 💻 Skilled in Java, C, JavaScript
-* 🌱 Currently learning: Data Structures & Algorithms, Android Development
-* 🔧 Working on: Real-world projects (Weather App, DNA Analyzer)
-* 📫 Reach me: [your-email@gmail.com](mailto:your-email@gmail.com)
+I am a B.Tech student specializing in Computer Science and Engineering with a strong passion for software development and technology. I have hands-on experience in both frontend and backend development, building real-world applications that solve practical problems. I am continuously learning new technologies and aiming to contribute effectively to impactful projects.
+
+---
+
+## 🎓 Education
+
+* 🎓 **B.Tech in Computer Science (Pursuing)**
+  GIET University, Gunupur — CGPA: 7.4
+
+* 📘 **Higher Secondary Education (CHSE)**
+  Nalanda Vidya Mandir, Berhampur — 60% (2023)
+
+* 📗 **Secondary Education (HSE)**
+  Ballipadar High School — 73.3% (2021)
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Java, C, JavaScript
-* **Web:** HTML, CSS, Node.js, Express
-* **Database:** MongoDB, SQL
+* **Programming:** Java, JavaScript
+* **Frontend:** HTML5, CSS3, React
+* **Backend:** Node.js, Express.js, REST API
+* **Database:** MongoDB, MySQL
 * **Tools:** Git, GitHub, VS Code
+* **Concepts:** Data Structures, OOP, Problem Solving, System Design
 
 ---
 
 ## 🚀 Projects
 
-### 🌦 Weather App
+### 💱 Currency Converter Web App
 
-* Fetches real-time weather data
-* Built using JavaScript & APIs
-* 🔗 https://github.com/YOUR_USERNAME/weather-app
-
-### 🧬 DNA Sequence Analyzer
-
-* Pattern search in DNA sequences
-* Implemented efficient algorithms
-* 🔗 https://github.com/YOUR_USERNAME/dna-analyzer
-
-### 💱 Currency Converter
-
-* Offline converter without API
-* Simple and fast conversion
+* Responsive currency converter using HTML, CSS, and API
+* Displays real-time exchange rates
 * 🔗 https://github.com/YOUR_USERNAME/currency-converter
+
+### 📄 Online Resume Maker
+
+* Dynamic resume builder using PHP, SQL, HTML, CSS
+* Includes resume generation and database storage
+* 🔗 [https://github.com/YOUR_USERNAME/resume-maker](https://github.com/RAHULBISOYI/student-document-assistant.git)
+
+### 🧬 DNA Sequence Pattern Analyzer
+
+* Web-based DNA analysis tool using Firebase
+* Detects nucleotide patterns efficiently
+* 🔗 [https://github.com/YOUR_USERNAME/dna-analyzer](https://github.com/RAHULBISOYI/D-span.git)
+
+### ♻️ Water & Waste Management System
+
+* Built using Node.js, OCR, and RAG
+* Provides smart waste and water management suggestions
+* 🔗[ https://github.com/YOUR_USERNAME/waste-management](https://github.com/RAHULBISOYI/ibm_water_and_waste_management.git)
+
+---
+
+## 💼 Internship Experience
+
+* **☕ Java Programming Intern – YHills**
+  Worked on core Java and Object-Oriented Programming (OOP)
+
+* **🎨 Graphic Design Intern – Stentientware**
+  Created visual graphics and digital layouts
+
+* **🤖 AI for Sustainability Intern – IBM SkillsBuild**
+  Gained experience in AI, responsible AI, and sustainability aligned with UN SDGs
+
+---
+
+## 📜 Certifications
+
+* 🐍 **Joy of Computing using Python – NPTEL (IIT Madras)**
+* ☕ **Programming in Java – NPTEL (IIT Kharagpur)** *(Elite + Silver Distinction)*
 
 ---
 
@@ -71,18 +108,20 @@
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 💼 LinkedIn: www.linkedin.com/in/
+rahul-bisoyi-832b062b9
+
+* 💻 GitHub: https://github.com/RAHULBISOYI
+* 📧 Email: [23cse400.rahulbisoyi@giet.edu](mailto:23cse400.rahulbisoyi@giet.edu)
 
 ---
 
-## 🏆 Achievements & Extras
+## 🏆 Achievements & Goals
 
-* 🧠 Learning Data Structures & Algorithms
-* 🏗️ Building real-world projects
-* 📚 Exploring Android Development
-* 🚀 Goal: Become a Full Stack Developer
+* 🚀 Built multiple real-world full stack projects
+* 📚 Strong foundation in Data Structures & OOP
+* 🎯 Goal: Become a Full Stack Developer & Software Engineer
 
 ---
 
-⭐ **"Keep learning, keep building!"**
+⭐ **"Code. Learn. Build. Repeat."**

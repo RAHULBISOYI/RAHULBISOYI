@@ -35,6 +35,11 @@ I am a B.Tech student specializing in Computer Science and Engineering with a st
 ---
 
 ## 🚀 Projects
+###🌐 Personal Portfolio Website
+
+Live portfolio hosted using GitHub Pages
+Showcases projects, skills, and contact details
+🔗 https://github.com/RAHULBISOYI/portfoliio_-.git
 
 ### 💱 Currency Converter Web App
 
@@ -60,6 +65,16 @@ I am a B.Tech student specializing in Computer Science and Engineering with a st
 * Provides smart waste and water management suggestions
 * 🔗[ https://github.com/RAHULBISOYI/ibm_water_and_waste_management.git](https://github.com/RAHULBISOYI/ibm_water_and_waste_management.git)
 
+###📝 FormMate (Smart Form Automation System)
+
+Web application designed to simplify bank and official form filling for citizens
+Users can upload form images/PDFs, and the system uses OCR (Optical Character Recognition) to extract data automatically
+Extracted data is processed and structured to auto-fill digital forms, reducing manual effort and errors
+Focuses on improving accessibility and efficiency for everyday users
+
+Tech Used: Node.js, OCR, HTML, CSS, JavaScript
+
+🔗 https://github.com/RAHULBISOYI/6_the_sem_project-formmate-.git
 ---
 
 ## 💼 Internship Experience

@@ -46,19 +46,19 @@ I am a B.Tech student specializing in Computer Science and Engineering with a st
 
 * Dynamic resume builder using PHP, SQL, HTML, CSS
 * Includes resume generation and database storage
-* 🔗 [https://github.com/YOUR_USERNAME/resume-maker](https://github.com/RAHULBISOYI/student-document-assistant.git)
+* 🔗 [https://github.com/RAHULBISOYI/student-document-assistant.git](https://github.com/RAHULBISOYI/student-document-assistant.git)
 
 ### 🧬 DNA Sequence Pattern Analyzer
 
 * Web-based DNA analysis tool using Firebase
 * Detects nucleotide patterns efficiently
-* 🔗 [https://github.com/YOUR_USERNAME/dna-analyzer](https://github.com/RAHULBISOYI/D-span.git)
+* 🔗 [https://github.comRAHULBISOYI/D-span.git](https://github.com/RAHULBISOYI/D-span.git)
 
 ### ♻️ Water & Waste Management System
 
 * Built using Node.js, OCR, and RAG
 * Provides smart waste and water management suggestions
-* 🔗[ https://github.com/YOUR_USERNAME/waste-management](https://github.com/RAHULBISOYI/ibm_water_and_waste_management.git)
+* 🔗[ https://github.com/RAHULBISOYI/ibm_water_and_waste_management.git](https://github.com/RAHULBISOYI/ibm_water_and_waste_management.git)
 
 ---
 

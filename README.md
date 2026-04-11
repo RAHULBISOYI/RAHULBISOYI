@@ -57,11 +57,9 @@ I am a B.Tech student specializing in Computer Science and Engineering with a st
 
 <div align="center">
 
-# 🚀 My Projects Portfolio  
+# 🚀 My Projects
 
-<img src="https://via.placeholder.com/900x300.png?text=My+Projects+Showcase" />
 
-<br/><br/>
 
 <!-- ===================== PROJECT 1 ===================== -->
 

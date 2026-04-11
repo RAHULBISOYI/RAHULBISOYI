@@ -55,47 +55,57 @@ I am a B.Tech student specializing in Computer Science and Engineering with a st
 
 ---
 
-## 🚀 Projects
-### 🌐 Personal Portfolio Website
+# 🚀 FormMate – Smart Form Automation System  
 
-* Live portfolio hosted using GitHub Pages
-* Showcases projects, skills, and contact details
-* 🔗 https://github.com/RAHULBISOYI/portfoliio_-.git
+<p align="center">
+  <img src="https://via.placeholder.com/800x300.png?text=Project+Banner" />
+</p>
 
-### 💱 Currency Converter Web App
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/OCR-Automation-orange?style=for-the-badge"/>
+</p>
 
-* Responsive currency converter using HTML, CSS, and API
-* Displays real-time exchange rates
-* 🔗 https://github.com/YOUR_USERNAME/currency-converter
+---
 
-### 📄 Online Resume Maker
+## 📌 Overview
+FormMate is a **smart form automation system** that extracts data from uploaded forms (PDF/Image) using OCR and auto-fills digital forms.
 
-* Dynamic resume builder using PHP, SQL, HTML, CSS
-* Includes resume generation and database storage
-* 🔗 [https://github.com/RAHULBISOYI/student-document-assistant.git](https://github.com/RAHULBISOYI/student-document-assistant.git)
+---
 
-### 🧬 DNA Sequence Pattern Analyzer
+## ✨ Features
+- 📤 Upload scanned forms or PDFs  
+- 🔍 Extract text using OCR  
+- ⚡ Auto-fill digital forms  
+- 🎯 Reduces manual work and errors  
 
-* Web-based DNA analysis tool using Firebase
-* Detects nucleotide patterns efficiently
-* 🔗 [https://github.comRAHULBISOYI/D-span.git](https://github.com/RAHULBISOYI/D-span.git)
+---
 
-### ♻️ Water & Waste Management System
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+</p>
 
-* Built using Node.js, OCR, and RAG
-* Provides smart waste and water management suggestions
-* 🔗[ https://github.com/RAHULBISOYI/ibm_water_and_waste_management.git](https://github.com/RAHULBISOYI/ibm_water_and_waste_management.git)
+---
 
-### 📝 FormMate (Smart Form Automation System)
+## 📸 Screenshots
+<p align="center">
+  <img src="https://via.placeholder.com/400x250.png?text=Screenshot+1" />
+  <img src="https://via.placeholder.com/400x250.png?text=Screenshot+2" />
+</p>
 
-* Web application designed to simplify bank and official form filling for citizens
-* Users can upload form images/PDFs, and the system uses OCR (Optical Character Recognition) to extract data automatically
-* Extracted data is processed and structured to auto-fill digital forms, reducing manual effort and errors
-* Focuses on improving accessibility and efficiency for everyday users
+---
 
-Tech Used: Node.js, OCR, HTML, CSS, JavaScript
-
-🔗 https://github.com/RAHULBISOYI/6_the_sem_project-formmate-.git
+## ⚙️ Installation
+```bash
+git clone https://github.com/RAHULBISOYI/6_the_sem_project-formmate-
+cd project-folder
+npm install
+npm start
 ---
 
 ## 💼 Internship Experience

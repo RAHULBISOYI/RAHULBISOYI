@@ -55,50 +55,106 @@ I am a B.Tech student specializing in Computer Science and Engineering with a st
 
 ---
 
-# 🚀 FormMate – Smart Form Automation System  
+<div align="center">
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Project+Banner" />
-</p>
+# 🚀 My Projects Portfolio  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/OCR-Automation-orange?style=for-the-badge"/>
-</p>
+<img src="https://via.placeholder.com/900x300.png?text=My+Projects+Showcase" />
 
----
+<br/><br/>
 
-## 📌 Overview
-FormMate is a **smart form automation system** that extracts data from uploaded forms (PDF/Image) using OCR and auto-fills digital forms.
+<!-- ===================== PROJECT 1 ===================== -->
 
----
+## 🌐 Personal Portfolio Website  
 
-## ✨ Features
-- 📤 Upload scanned forms or PDFs  
-- 🔍 Extract text using OCR  
-- ⚡ Auto-fill digital forms  
-- 🎯 Reduces manual work and errors  
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Pages-black?style=for-the-badge&logo=github"/>
 
----
-
-## 🛠️ Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+A personal portfolio website showcasing projects, skills, and contact details.
 </p>
 
----
+🔗 https://github.com/RAHULBISOYI/portfoliio_-
 
-## 📸 Screenshots
-<p align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Screenshot+1" />
-  <img src="https://via.placeholder.com/400x250.png?text=Screenshot+2" />
+<br/><br/>
+
+<!-- ===================== PROJECT 2 ===================== -->
+
+## 💱 Currency Converter Web App  
+
+<img src="https://img.shields.io/badge/API-ExchangeRates-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge"/>
+
+<p>
+Responsive currency converter with real-time exchange rates using API.
 </p>
 
----
+🔗 https://github.com/YOUR_USERNAME/currency-converter
+
+<br/><br/>
+
+<!-- ===================== PROJECT 3 ===================== -->
+
+## 📄 Online Resume Maker  
+
+<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
+
+<p>
+Dynamic resume builder with database storage and generation system.
+</p>
+
+🔗 https://github.com/RAHULBISOYI/student-document-assistant
+
+<br/><br/>
+
+<!-- ===================== PROJECT 4 ===================== -->
+
+## 🧬 DNA Sequence Pattern Analyzer  
+
+<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Analysis-DNA-purple?style=for-the-badge"/>
+
+<p>
+Web-based DNA analyzer that detects nucleotide patterns efficiently.
+</p>
+
+🔗 https://github.com/RAHULBISOYI/D-span
+
+<br/><br/>
+
+<!-- ===================== PROJECT 5 ===================== -->
+
+## ♻️ Water & Waste Management System  
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/OCR-AI-orange?style=for-the-badge"/>
+
+<p>
+Smart system providing waste and water management suggestions using OCR & AI.
+</p>
+
+🔗 https://github.com/RAHULBISOYI/ibm_water_and_waste_management
+
+<br/><br/>
+
+<!-- ===================== PROJECT 6 ===================== -->
+
+## 📝 FormMate – Smart Form Automation System  
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/OCR-Automation-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart-Forms-blue?style=for-the-badge"/>
+
+<p>
+Automates form filling by extracting data from images/PDFs using OCR and auto-filling digital forms.
+</p>
+
+🔗 https://github.com/RAHULBISOYI/6_the_sem_project-formmate-
+
+<br/><br/>
+
+</div>
 
 
 

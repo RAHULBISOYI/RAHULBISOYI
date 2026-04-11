@@ -111,7 +111,7 @@ Tech Used: Node.js, OCR, HTML, CSS, JavaScript
 
 ## 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULBISOYI\&layout=compact\&theme=radical)
 
 ---
 

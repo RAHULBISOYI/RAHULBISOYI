@@ -100,13 +100,7 @@ FormMate is a **smart form automation system** that extracts data from uploaded 
 
 ---
 
-## ⚙️ Installation
-```bash
-git clone https://github.com/RAHULBISOYI/6_the_sem_project-formmate-
-cd project-folder
-npm install
-npm start
----
+
 
 ## 💼 Internship Experience
 
